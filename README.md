@@ -12,7 +12,7 @@ I enjoy public speaking and have recently spoken at conferences and user groups 
 
 ### Fun Facts :fox_face:
 
-- 🌱 I’m currently learning the ins and outs of Kubernetes
+- 🌱 I’m currently studying to pass the AWS Solutions Architect Associate exam
 - 👯 I’m looking to collaborate on interesting Kotlin projects
 - 💬 Ask me about whatever you feel comfortable asking. I enjoy talking about code, and discussing solutions.
 - 📫 How to reach me: My blog - [todd.ginsberg.com](https://todd.ginsberg.com) or Twitter - [@ToddGinsberg](https://twitter.com/toddginsberg)
