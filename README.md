@@ -8,6 +8,7 @@ I enjoy public speaking and have recently spoken at conferences and user groups 
 
 - An Introduction to Kotlin
 - Java Cram Session: Get caught up on the latest Java changes
+- Introduction to JDK Flight Recorder
 - Advent of Code in Kotlin: Lessons Learned
 
 ### Fun Facts :fox_face:
