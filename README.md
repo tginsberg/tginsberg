@@ -11,11 +11,12 @@ I enjoy public speaking and have recently spoken at conferences and user groups 
 - Introduction to JDK Flight Recorder
 - Advent of Code in Kotlin: Lessons Learned
 - Beyond JUnit - Pragmatic ways to increase code quality
+- Project Loom Is More Than Virtual Threads! Sturctured Concurrency and Scope Values.
 
 
 ### Fun Facts :fox_face:
 
-- 🌱 I’m currently working on finishing up a conference talk on two aspects of Project Loom - [Structured Concurrency](https://openjdk.org/jeps/462) and [Scoped Values](https://openjdk.org/jeps/464).
+- 🌱 I’m currently working on a library of [Stream Gatherers](https://openjdk.org/jeps/473).
 - 👯 I’m looking to collaborate on interesting Kotlin or Java projects.
 - 💬 Ask me about whatever you feel comfortable asking. I enjoy talking about code and discussing solutions.
 - 📫 How to reach me: Contact information is listed on my blog - [todd.ginsberg.com](https://todd.ginsberg.com).
