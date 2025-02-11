@@ -6,17 +6,17 @@ I am a huge fan of the [Advent of Code](https://adventofcode.com). I have reposi
 
 I enjoy public speaking and have recently spoken at conferences and user groups on the following topics:
 
+- Project Loom Is More Than Virtual Threads! Sturctured Concurrency and Scope Values.
+- Beyond JUnit - Pragmatic ways to increase code quality
 - An Introduction to Kotlin
 - Java Cram Session: Get caught up on the latest Java changes
 - Introduction to JDK Flight Recorder
 - Advent of Code in Kotlin: Lessons Learned
-- Beyond JUnit - Pragmatic ways to increase code quality
-- Project Loom Is More Than Virtual Threads! Sturctured Concurrency and Scope Values.
 
 
 ### Fun Facts :fox_face:
 
-- 🌱 I’m currently working on a library of [Stream Gatherers](https://github.com/tginsberg/gatherers4j).
+- 🌱 I’m currently working on a library of Stream Gatherers called [Gatherers4j](https://github.com/tginsberg/gatherers4j).
 - 👯 I’m looking to collaborate on interesting Kotlin or Java projects.
 - 💬 Ask me about whatever you feel comfortable asking. I enjoy talking about code and discussing solutions.
 - 📫 How to reach me: Contact information is listed on my blog - [todd.ginsberg.com](https://todd.ginsberg.com).
