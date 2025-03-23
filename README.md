@@ -12,7 +12,7 @@ I enjoy public speaking and have recently spoken at conferences and user groups 
 - Java Cram Session: Get caught up on the latest Java changes
 - Introduction to JDK Flight Recorder
 - Advent of Code in Kotlin: Lessons Learned
-
+- See my [Sessionize profile](https://sessionize.com/todd-ginsberg) for details
 
 ### Fun Facts :fox_face:
 
@@ -21,3 +21,4 @@ I enjoy public speaking and have recently spoken at conferences and user groups 
 - 💬 Ask me about whatever you feel comfortable asking. I enjoy talking about code and discussing solutions.
 - 📫 How to reach me: Contact information is listed on my blog - [todd.ginsberg.com](https://todd.ginsberg.com).
 - 😄 Pronouns: he/him/his
+- 🇺🇸 & 🇨🇦
